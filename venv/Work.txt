@@ -1,0 +1,29 @@
+A Learning Based POI Recommendation With Spatiotemporal Context Awareness
+
+IEEE Transactions on Cybernetics,Volume:52,Issue:4,Issue Date:April.2022
+
+Human mobility, machine learning, point-ofinterest (POI) recommendation, recurrent neural network (RNN), spatiotemporal data.
+
+A_Learning_Based_POI_Recommendation
+
+
+a_learning_based_poi_recommendation
+
+
+Members
+--------
+
+pid	
+point_name	
+latitude_radian	
+longitude_radian	
+num_links	
+point_links	
+num_categories
+categories
+Prediction
+
+
+
+
+predict_poi_recommendation
